@@ -528,10 +528,10 @@
 
 26. Click the little document icon to see the documentation
 
-    ![docs icon](../images/docs_icon.png)
+    ![docs icon](../imagenes/docs_icon.png)
 
 27. Click "Commit and sync" in version control and enter a commit message in the dialogue box
 
-    ![commit and sync](../images/commit_and_sync.png)
+    ![commit y sync](../imagenes/commit_and_sync.png)
 
-### [Back to guide list](../ReadMe.md)
+### [Regresar a las guias](../ReadMe.md)
