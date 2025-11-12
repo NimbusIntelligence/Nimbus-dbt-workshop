@@ -1,6 +1,6 @@
 # dbt Workshop
 
-Estas son nuestras instrucciones paso a paso para nuestro Workshop de dbt.
+Estas son las instrucciones paso a paso para nuestro Workshop de dbt.
 
 [Comencemos con dbt Cloud](./guias/getting-started.md)
 
