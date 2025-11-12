@@ -2,8 +2,8 @@
 
 This is our step by step instructions for The Information Lab's dbt essentials training
 
-[Getting started with dbt Cloud](./guides/getting-started.md)
+[Comencemos con dbt Cloud](./guias/getting-started.md)
 
-[Testing & Debugging](./guides/testing-debugging.md)
+[Testeo y Depuración](./guias/testing-debugging.md)
 
-[Incremental Models](./guides/incremental-models.md)
+[Modelos Incrementales](./guias/incremental-models.md)
