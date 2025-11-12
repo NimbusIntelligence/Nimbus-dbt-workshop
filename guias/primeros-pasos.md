@@ -2,17 +2,17 @@
 
 1. Click "Initialize dbt project" in version control
 
-   ![Inicializar un Proyecto de dbt](../imagenes/initialise_project.png)
+   ![Inicializar un Proyecto de dbt](../imagenes/inicializar_proyecto.png)
 
 2. Click "Commit and sync" in version control and enter a commit message in the dialogue box
 
-   ![Commit y Sync](../imagenes/commit_and_sync.png)
+   ![Commit y Sync](../imagenes/commit_y_sync.png)
 
 3. Click "Create branch" in version control and name it "intro-training"
 
-   ![Crear una Rama](../imagenes/create_branch.png)
+   ![Crear una Rama](../imagenes/crear_un_branch.png)
 
-   ![Nombrar Rama](../imagenes/branch_name.png)
+   ![Nombrar Rama](../imagenes/nombre_del_branch.png)
 
 4. In the command bar, run the command
 
@@ -528,10 +528,10 @@
 
 26. Click the little document icon to see the documentation
 
-    ![docs icon](../imagenes/docs_icon.png)
+    ![docs icon](../imagenes/icono_docs.png)
 
 27. Click "Commit and sync" in version control and enter a commit message in the dialogue box
 
-    ![commit y sync](../imagenes/commit_and_sync.png)
+    ![commit y sync](../imagenes/commit_y_sync.png)
 
 ### [Lista de Guias](../ReadMe.md)
