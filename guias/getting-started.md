@@ -534,4 +534,4 @@
 
     ![commit y sync](../imagenes/commit_and_sync.png)
 
-### [Regresar a las guias](../ReadMe.md)
+### [Lista de Guias](../ReadMe.md)
