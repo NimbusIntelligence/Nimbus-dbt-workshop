@@ -1,6 +1,6 @@
-# dbt Essentials Guide
+# dbt Workshop
 
-This is our step by step instructions for The Information Lab's dbt essentials training
+Estas son nuestras instrucciones paso a paso para nuestro Workshop de dbt.
 
 [Comencemos con dbt Cloud](./guias/getting-started.md)
 
