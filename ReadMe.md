@@ -2,8 +2,8 @@
 
 Estas son las instrucciones paso a paso para nuestro Workshop de dbt.
 
-[Comencemos con dbt Cloud](./guias/getting-started.md)
+[Comencemos con dbt Cloud](./guias/primeros-pasos.md)
 
-[Testeo y Depuración](./guias/testing-debugging.md)
+[Testeo y Depuración](./guias/testeo-depuración.md)
 
-[Modelos Incrementales](./guias/incremental-models.md)
+[Modelos Incrementales](./guias/modelos-incrementales.md)
